@@ -1,6 +1,7 @@
 <p align='center'>
   <a href='https://cltsolutions.github.io/portfolio/#resume'><img src='https://user-images.githubusercontent.com/73909880/112049522-1eff5480-8b26-11eb-89f7-30a41f681286.png' alt='Chelsey Brand Logo'></a>
 </p>
+<hr>
 
 ### Hi there 👋
 <!-- <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" /> -->
