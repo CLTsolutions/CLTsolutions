@@ -25,6 +25,7 @@ I'm Chelsey, a front-end developer who really enjoys experimenting with new tech
 - 📚 A student at ![Eleven Fifty Academy](https://elevenfifty.org/)
 - 🌱 Learning Next.js & Typescript
 - ✈️ A flight attendant turned web developer
+
 <!--
 **CLTsolutions/CLTsolutions** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
@@ -43,5 +44,5 @@ Here are some ideas to get you started:
 </p>
 <p align='center'>
   <a href='https://www.linkedin.com/in/cltschida/' target='_blank' alt='Linkedin'><img src='https://user-images.githubusercontent.com/73909880/112054818-743e6480-8b2c-11eb-8bda-2aa508ce6e1f.png' alt='Linkedin Logo'></a>
-  <a href='https://cltsolutions.github.io/portfolio/#resume" target='_blank'><img src='https://user-images.githubusercontent.com/73909880/112055194-e9aa3500-8b2c-11eb-989c-7bc354c3271a.png' alt='external link'></a>
+  <a href='https://cltsolutions.github.io/portfolio/#resume" target='_blank' alt='portfolio'><img src='https://user-images.githubusercontent.com/73909880/112055194-e9aa3500-8b2c-11eb-989c-7bc354c3271a.png' alt='external link png'></a>
 </p>
