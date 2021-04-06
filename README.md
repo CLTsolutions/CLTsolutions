@@ -22,7 +22,7 @@ I'm Chelsey, a front-end developer who really enjoys experimenting with new tech
 <code><img height="22" alt="Terminal" title="Windows Terminal" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /></code>
 
 ### Currently I am:
-- 📚 A student at ![Eleven Fifty Academy](https://elevenfifty.org/)
+- 📚 A student at [Eleven Fifty Academy](https://elevenfifty.org/)
 - 🌱 Learning Next.js & Typescript
 - ✈️ A flight attendant turned web developer
 
