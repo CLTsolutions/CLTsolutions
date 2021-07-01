@@ -24,7 +24,7 @@ I'm Chelsey, a front-end developer who really enjoys experimenting with new tech
 
 ### Currently I am:
 - 📚 A Learning Assistant at [Eleven Fifty Academy](https://elevenfifty.org/)
-- 🌱 Learning Next.js & Typescript
+- 🌱 Learning Next.js, Typescript, and Sass
 - ✈️ A flight attendant turned web developer
 
 <!--
