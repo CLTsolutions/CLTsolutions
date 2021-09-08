@@ -24,6 +24,7 @@ I'm Chelsey, a front-end developer. It thrills me to experiment with new technol
 <code><img height="30" alt="GitHub" title="Github" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /></code>
 <code><img height="30" alt="Heroku" title="Heroku" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg" /></code>
 <code><img height="30" alt="Terminal" title="Windows Terminal" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /></code>
+<code><img height="30" alt="Bash" title="Bash" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" /></code>
 
 ### Currently I am:
 - 📚 A Learning Assistant at [Eleven Fifty Academy](https://elevenfifty.org/)
