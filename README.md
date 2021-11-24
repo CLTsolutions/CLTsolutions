@@ -6,13 +6,15 @@
 ### Hi there! 👋
 <!-- <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" /> -->
 
-I'm Chelsey, a front-end developer. It thrills me to experiment with new technologies, build small projects, or tinker with vanilla Javascript microchallenges. When I'm not at my computer, you can find me reading a book, listening to podcasts, or traveling.
+I'm Chelsey, a software engineer. It thrills me to experiment with new technologies and build small projects. When I'm not at my computer, you can find me reading a book, listening to podcasts, or traveling.
 
 ### Languages and Tools:
 <code><img height="30" alt="HTML5" title="HTML" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></code>
 <code><img height="30" alt="CSS3" title="CSS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></code>
 <code><img height="30" alt="JavaScript" title="Javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></code>
 <code><img height="30" alt="Typescript" title="Typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" /></code>
+<code><img height="30" alt="Ruby" title="Ruby" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png" /></code>
+<code><img height="30" alt="Rails" title="Rails" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png" /></code>
 <code><img height="30" alt="React" title="React" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /></code>
 <code><img height="30" alt="Node.js" title="Node.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" /></code>
 <code><img height="30" alt="Express" title="Express" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" /></code>
@@ -28,8 +30,8 @@ I'm Chelsey, a front-end developer. It thrills me to experiment with new technol
 
 ### Currently I am:
 - 📚 A Learning Assistant at [Eleven Fifty Academy](https://elevenfifty.org/)
-- 🌱 Learning Next.js
-- ✈️ A flight attendant turned web developer
+- 🌱 Learning Next.js and Ruby on Rails
+- ✈️ A flight attendant turned software engineer
 
 <!--
 **CLTsolutions/CLTsolutions** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
