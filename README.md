@@ -6,7 +6,7 @@
 ### Hi there! 👋
 <!-- <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" /> -->
 
-I'm Chelsey, a software engineer. It thrills me to experiment with new technologies and build small projects. When I'm not at my computer, you can find me reading a book, listening to podcasts, or traveling.
+I'm Chelsey, a flight attendant turned software engineer. It thrills me to experiment with new technologies and build small projects. When I'm not at my computer, you can find me reading a book, listening to podcasts, or traveling. Currently I am learning Next.js, Ruby, and Rails.
 
 ### Languages and Tools:
 <code><img height="30" alt="HTML5" title="HTML" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></code>
@@ -28,12 +28,13 @@ I'm Chelsey, a software engineer. It thrills me to experiment with new technolog
 <code><img height="30" alt="Terminal" title="Windows Terminal" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /></code>
 <code><img height="30" alt="Bash" title="Bash" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" /></code>
 
-### Currently I am:
-- 📚 A Learning Assistant at [Eleven Fifty Academy](https://elevenfifty.org/)
-- 🌱 Learning Next.js and Ruby on Rails
-- ✈️ A flight attendant turned software engineer
-
 <!--
+### Currently I am:
+🌱 Learning Next.js, Ruby, and Ruby on Rails
+
+✈️ A flight attendant turned software engineer
+
+
 **CLTsolutions/CLTsolutions** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
